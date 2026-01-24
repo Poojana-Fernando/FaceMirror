@@ -1,3 +1,4 @@
+
 # MoodMirror - AI Emotion Based Music Player
 
 MoodMirror is an interactive web application that uses your webcam and AI-powered face detection to analyze your mood and recommend matching music.
@@ -83,3 +84,7 @@ You can host this static app on AWS using **S3** (storage) and **CloudFront** (C
 4.  Go to **Properties** > **Static website hosting** and enable it.
 5.  Set `index.html` as the index document.
 6.  (Optional) Set up **CloudFront** in front of your S3 bucket for HTTPS support.
+=======
+# FaceMirror
+FaceMirror is a web application that analyzes real-time facial movements through the camera to detect user mood and suggest music accordingly, delivering a smart and immersive experience.
+
